@@ -1,0 +1,6 @@
+pip install black
+black calculator_game_day_2.py
+refactor the code to eliminate duplication
+
+
+Explain about eval only if many people use it.
