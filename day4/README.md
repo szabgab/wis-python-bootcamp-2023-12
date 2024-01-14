@@ -17,7 +17,9 @@ first as duplicate code and then as a function.
 
 * function returning multiple values
 
-* Assignment: take the solution for the previous assignment you submitted, split it up into functions as you feel fit
+## Assignment
+
+Take the solution for the previous assignment you submitted, split it up into functions as you feel fit
 make sure functions either do computation or do IO (Input output) meaning print or get input.
 Don't put both computation and IO in the same function.
 
