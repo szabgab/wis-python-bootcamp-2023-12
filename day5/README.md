@@ -45,3 +45,12 @@ Optional: If you have some more interesting statistic you can create, I'd happy 
 analyze.py  FILE FILE FILE ...
 ```
 
+Save one ore more of the data files and write a test that will take those files and check if the results are as expected.
+
+```
+test_analyze.py
+```
+
+
+Put all the python and data files in the same folder called `day5` and upload that folder to Dropbox.
+
