@@ -1,3 +1,6 @@
+
+## Notes
+
 ## 1st hour:
 argv and the command line arguments
 
@@ -26,11 +29,15 @@ Don't put both computation and IO in the same function.
 Then move the functions that do computation to a separate file - a module - and use them from the program.
 Create a third file with several test to verify the functions in the module. Use these filenames:
 
-* compute_sequence.py   - the main program
-* sequence.py           - the module that only has functions
-* test_sequence.py      - the tests.
+* `compute_sequence.py`   - the main program
+* `sequence.py`           - the module that only has functions
+* `test_sequence.py`      - the tests.
 
 Put all 3 files in a single folder and upload that folder to Dropbox.
 
 
+## End of Semester Project
 
+Originally I thought that we'll start doing the project after we finished the lessons, but our semester is short and you might have a lot of exams crammed together, so I'd like to suggest you start thinking
+about your project. If you need help, reply to the message in which I sent you the grade. That's our one-on-one discussion. I can allocate some time during the week to have one-on-one conversations
+about the project. I think it could help you if you already decided on a project and sent me the proposal. That way I can approve it earlier and you can start working on it during the semester.
