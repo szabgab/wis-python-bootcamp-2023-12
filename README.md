@@ -7,6 +7,7 @@
 | --------- | ---- |
 | [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             |
 | [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 |
+| [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 |
 | [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 |
 | [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             |
 | [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               |
