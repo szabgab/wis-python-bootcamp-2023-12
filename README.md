@@ -7,6 +7,7 @@
 | --------- | ---- |
 | [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           |
 | [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         |
+| [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |
 | [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             |
 | [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 |
 | [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 |
