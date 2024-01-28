@@ -2,21 +2,20 @@
 
 web address == URL = URI
 
-My GitHubv Pages: https://github.szabgab.com/
+My GitHub Pages: https://github.szabgab.com/
 
 Error on the page of Stav https://github.com/stavhir/stavhir.github.io/actions/runs/7680881688/job/20938942145
 
 Setting of GitHub pages  for my site: https://github.com/szabgab/szabgab.github.io/settings/pages
 
 Domain registration:
-    https://iwantmyname.com/
-    https://www.box.co.il/
+* https://iwantmyname.com/
+* https://www.box.co.il/
 
 https://kantoniko.com/
 
 
-
-# Jupyter lab
+## Jupyter lab
 
 ```
 pip install jupyter
@@ -25,22 +24,9 @@ pip install jupyter
 Setting / search for "auto" / Enable autocompletion
 
 
-openpyxl
+[openpyxl](https://openpyxl.readthedocs.io/en/stable/tutorial.html)
 
 
-pandas
-df = read_csv(filename)
-save_excel
-read_excel
+[color wheel](https://www.canva.com/colors/color-wheel/)
 
-df.columns
-df.dtypes
-df.index
-df.values
-df.describe()
 
-df = pd.read_csv('mixed.csv', dtype = { 'MyInteger' : np.int8 })
-
-df.head()
-df.tail()
-df.
