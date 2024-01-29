@@ -24,3 +24,9 @@
 | [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       |
 | [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 |
+
+
+## Project
+
+* Dead-line to get your proposal accepted: 2024.02.20
+* Dead-line to submit the project: 2024.03.20
