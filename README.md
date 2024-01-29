@@ -13,6 +13,7 @@
 | [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 |
 | [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 |
 | [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             |
+| [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             |
 | [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               |
 | [Nadav Mishol](https://nadavmishol.github.io/)         | [repo](https://github.com/NadavMishol/nadavmishol.github.io)         |
 | [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   |
