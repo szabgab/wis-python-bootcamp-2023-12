@@ -28,5 +28,12 @@
 
 ## Project
 
+* You can do the projecy in pairs
+
+* The proposal should give me the feeling that you know what are the issues you are facing, but if something is unclear I'll ask. Some people do it in 5-10 lines, others write a whole paper. I prefer the shorter ones. At the end it should be the basis of the user documentation of your project.
+
+* Project submission:
+* You will need to create a github repository where the proposal (that becomes description) will be the README.md file (so you can use markdown) and your project will be in the repo. You will open an issue on our shared project with a  link to that repo. (and I'll add the link to the README file.)
+
 * Dead-line to get your proposal accepted: 2024.02.20
 * Dead-line to submit the project: 2024.03.20
