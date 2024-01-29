@@ -45,6 +45,31 @@ API - Application programming Interface
 
 Slides related to the material: https://code-maven.com/slides/python/biology
 
+## Videos
+
+* Day 5 - part 1 https://youtu.be/LfmqwiajUcc
+* Day 5 - part 2 https://youtu.be/c3gY8JDKVzc
+
+## Timestamps
+
+
+first hour:
+
+00:00 - biopython
+12:10 - biopython Seq
+19:22 - download using request
+22:55 - http status code
+27:35 - Exit code (success == 0)
+31:30 - saving a file
+36:00 - reading a file
+
+second hour:
+
+00:00 - reading sequences
+05:15 - reading from the web using API
+11:00 - Entrez read
+21:00 - Entrez efatch
+
 ## Assignment
 
 * Write a program that will get a term on the command line and download N entries (also provided on the command line) from one of the databases supported by Entrez. In the comment of the code include your favorite search terms.

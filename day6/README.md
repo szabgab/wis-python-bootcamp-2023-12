@@ -16,6 +16,46 @@
 
 * [Videos of earlier projects](https://code-maven.com/programming-bootcamp-for-scientists)
 
+## Videos
+
+* Day 6 - part 1 - https://youtu.be/AamCnNutbdk
+* Day 6 - part 2 - https://youtu.be/zGwqz1I3kBg
+* Day 6 - part 3 - https://youtu.be/pPbcvYp8GRY
+
+## Timestamps
+
+hour 1:
+
+00:00 - Git respiratory and GitHub
+05:30 - Commits
+14:18 - Issues
+22:05 - Discussions
+23:45 - Pull requests
+34:00 - Installing Git
+
+hour2:
+
+00:00 - git bash
+09:00 - git init
+10:22 - git status\add\commit
+13:43 - respiratory mail\username
+25:00 - adding  commits
+28:43 - git show\diff
+33:18 - git in VSC
+41:40 - uploading a respiratory to GitHub
+
+hour3:
+
+00:00 - uploading a respiratory to GitHub
+07:44 - updating Github
+15:45 - blame
+20:10 - Making a GitHub page
+27:35 - adding a link
+29:23 - adding an image
+33:42 - changing the theme
+42:20 - another page
+45:25 - a table
+48:26 - project examples
 
 ## Assignment
 

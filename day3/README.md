@@ -1,3 +1,13 @@
+
+## Videos
+
+* Day 3 Part 1 https://youtu.be/6TE7WUXCZ9A
+* Day 3 Part 2 https://youtu.be/jjqvTrCjtsM
+* Day 3 Part 3 https://youtu.be/P3HDGO21o-0
+* Day 3 Part 4 https://youtu.be/73_cqoK65E8
+
+
+
 ## Assignment - Day 3
 
 * Given a text file that contains several dirty sequences create several repots.

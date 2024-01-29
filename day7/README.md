@@ -29,6 +29,11 @@ Setting / search for "auto" / Enable autocompletion
 
 [color wheel](https://www.canva.com/colors/color-wheel/)
 
+## Videos
+
+* Day 7 - part 1 https://youtu.be/2GJFPCMEJ9M
+* Day 7 - part 2 https://youtu.be/jIQkpgA7iUQ
+
 ## Assignment
 
 * Pick a series of data (e.g. from your lab) and create some interesting graphs in an Excel file. It is up to you what you feel as being interesting.

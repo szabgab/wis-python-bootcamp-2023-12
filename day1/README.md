@@ -17,6 +17,12 @@
 * We started the Jupyter notebook by typing in jupyter notebook in the folder where we wanted our files. We managed to use it to print Hello World, but we could not stop it properly and could not restart it.
 
 
+## Videos
+
+* Day 1 part 1 https://youtu.be/lsLoNWqXfvY
+* Day 1 part 2 https://youtu.be/1paxNnoplA0
+* Day 1 part 3 https://youtu.be/rYuB1NE9cFA
+
 ## Timestamps
 
 Part 1:
