@@ -39,3 +39,4 @@ Setting / search for "auto" / Enable autocompletion
     * On the web site of the [U.S. Department of Education](https://sites.ed.gov/foreigngifts/) you can find the list of foreign donations.  There is a link download the [most recent data](https://sites.ed.gov/foreigngifts/files/2023/12/Sec-117-Public-Records-Complete-Oct-13-2023.xlsx). Try to analyze that and create some interesting report.
     * I am sure there are many other sources.
 
+Create a folder called `day7` and put all the necessary files there. (data, program, result) and upload to Dropbox.
