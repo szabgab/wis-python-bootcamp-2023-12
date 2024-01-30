@@ -34,6 +34,31 @@ Setting / search for "auto" / Enable autocompletion
 * Day 7 - part 1 https://youtu.be/2GJFPCMEJ9M
 * Day 7 - part 2 https://youtu.be/jIQkpgA7iUQ
 
+## Timestamps
+
+First hour:
+00:00 - student's GitHub pages
+08:45 - custom domain
+17:10 - Jupiter lab
+22:35 - csv files
+32:00 - Jupiter notebook
+37:50 - executing code
+52:10  - variables in memory
+
+second hour:
+00:00 - Openpyxl
+09:30 - creating an excel
+18:28 - Datetime
+23:20 - changing column width
+25:40 - uploading to git
+33:00 - restarting
+38:00 - adding a sheet
+44:15 - adding an operator cell
+46:15 - Making a chart
+01:00:00 - loading existing excel
+01:07:15 - printing & manipulating values
+
+
 ## Assignment
 
 * Pick a series of data (e.g. from your lab) and create some interesting graphs in an Excel file. It is up to you what you feel as being interesting.
