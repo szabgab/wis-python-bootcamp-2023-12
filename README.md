@@ -9,6 +9,7 @@
 | [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         |
 | [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |
 | [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             |
+| [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 |
 | [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 |
 | [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 |
 | [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 |
