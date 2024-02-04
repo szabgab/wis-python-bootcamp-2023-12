@@ -1,5 +1,8 @@
 # Day 8
 
+
+## Notes
+
 We started to go over the assignment submitted by Guy to read the code and make improvements
 
 Default Dict: https://code-maven.com/slides/python/default-dict
@@ -19,16 +22,24 @@ https://code-maven.com/slides/python/sorted
 * openpyxl mapping column names and numbers: https://openpyxl.readthedocs.io/en/stable/api/openpyxl.utils.cell.html
 
 dictionary comprehension 
+
+```
 top_institution = {key: institution[key] for key in top_institution if key in institution}
+```
 
 
+## pandas
 
-pandas
+```
 read_excel
 df = read_csv(filename)
 
 save_excel
+```
 
+[numpy value types](https://code-maven.com/slides/python/value-types)
+
+```
 df.columns
 df.dtypes
 df.index
@@ -39,3 +50,11 @@ df = pd.read_csv('mixed.csv', dtype = { 'MyInteger' : np.int8 })
 
 df.head()
 df.tail()
+```
+
+[panda.Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html)
+
+[ExcelWriter](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.ExcelWriter.html)
+
+[PyPlot](https://matplotlib.org/stable/api/pyplot_summary.html)
+
