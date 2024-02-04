@@ -58,3 +58,12 @@ df.tail()
 
 [PyPlot](https://matplotlib.org/stable/api/pyplot_summary.html)
 
+## Videos
+
+
+* Day 8 - part 1 https://youtu.be/JlDPIZ_eWZI
+* Day 8 - part 2 https://youtu.be/Va5xYeWJIo0
+* Day 8 - part 3 https://youtu.be/oweoPX6bEm4
+* Day 8 - part 4 https://youtu.be/brtd61T4-TY
+
+
