@@ -90,4 +90,8 @@ Third hour:
 31:30 - Numpy data types
 38:48 - manipulating data frames
 
+4th video:
+
+00:00 - Sending Pull-Request to link to the project
+
 
