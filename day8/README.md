@@ -67,3 +67,27 @@ df.tail()
 * Day 8 - part 4 https://youtu.be/brtd61T4-TY
 
 
+## Timestamps
+
+First hour:
+00:00 - reviewing last assignment
+26:47 - using defaultdict
+31:35 - exercism
+34:25 - continue reviewing
+37:53 - code comments
+51:00 - writing informative
+57:45 - constant
+
+Second hour:
+00:00 - reviewing last assignment
+05:35 - sorting
+16:30 - saving the results
+25:15 - reviewing second code
+
+Third hour:
+00:00 - reviewing second code
+16:30 - reading excel w\ pandas
+31:30 - Numpy data types
+38:48 - manipulating data frames
+
+
