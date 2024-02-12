@@ -31,3 +31,20 @@ https://code-maven.com/openweathermap-api-using-python
 
 * Day 9 part 1 https://youtu.be/WgDEve3c4W0
 * Day 9 part 2 https://youtu.be/tlBukelcuYI
+
+## Timestamps
+
+First hour:
+00:00 - what are exceptions?
+10:00 - handling exceptions
+21:00 - external module error
+26:52 - catching an exception
+33:20 - prevention
+42:23 - exception hierarchy
+
+Second hour:
+00:00 - data formats
+00:45 - .yaml
+12:53 - .toml
+20:10 - .json
+
