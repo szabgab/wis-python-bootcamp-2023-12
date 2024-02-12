@@ -18,7 +18,7 @@
 | [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             |  |
 | [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               | [PCR primer designer](https://github.com/nadavhen/PCR-primer-designer) |
 | [Nadav Mishol](https://nadavmishol.github.io/)         | [repo](https://github.com/NadavMishol/nadavmishol.github.io)         | [Movie Finder](https://github.com/NadavMishol/MovieFinder) |
-| [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   |  |
+| [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) |
 | [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 |  |
 | [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           |  |
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 |  |
