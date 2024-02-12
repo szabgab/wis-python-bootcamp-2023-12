@@ -16,10 +16,12 @@ openpyxl.utils.exceptions.InvalidFileException: openpyxl does not support .txt f
 ##
 
 
-* JSON
-* YAML  https://yaml.org/
+* JSON  https://code-maven.com/slides/python/json
+* YAML  https://yaml.org/   https://code-maven.com/slides/python/yaml
 * TOML  https://toml.io/en/
 * XML
+
+https://docs.python.org/3/library/tomllib.html
 
 https://openweathermap.org/
 
