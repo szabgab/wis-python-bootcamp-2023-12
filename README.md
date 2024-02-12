@@ -37,5 +37,5 @@
 * Project submission:
 * You will need to create a github repository where the proposal (that becomes description) will be the README.md file (so you can use markdown) and your project will be in the repo. You will open an issue on our shared project with a  link to that repo. (and I'll add the link to the README file.)
 
-* Dead-line to get your proposal accepted: 2024.02.20
+* Dead-line to get your proposal accepted: 2024.02.17 20:00
 * Dead-line to submit the project: 2024.03.20
