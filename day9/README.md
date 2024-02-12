@@ -25,3 +25,7 @@ https://openweathermap.org/
 
 https://code-maven.com/openweathermap-api-using-python
 
+## Videos
+
+* Day 9 part 1 https://youtu.be/WgDEve3c4W0
+* Day 9 part 2 https://youtu.be/tlBukelcuYI
