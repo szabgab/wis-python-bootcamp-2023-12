@@ -5,7 +5,7 @@
 
 | Home page | Repo | Project |
 | --------- | ---- | ------- |
-| [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           |  |
+| [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           | [Protein motif finder](https://github.com/Bodya-Huri/AlphaFoldMotif) |
 | [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         |  |
 | [Doreen Padan](https://doreenpa.github.io/)            | [repo](https://github.com/doreenpa/doreenpa.github.io)               | with Golda |
 | [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |  |
@@ -24,7 +24,7 @@
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa |
 | [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) |  |
 | [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       |  |
-| [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   |  |
+| [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda |
 
 
