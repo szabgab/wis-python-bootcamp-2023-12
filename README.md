@@ -30,12 +30,22 @@
 
 ## Project
 
-* You can do the projecy in pairs
+* You can do the project in pairs
 
+### Proposal
+
+* Create a github repository where the proposal (that becomes description) will be the README.md file You will open an issue on our shared project with a  link to that repo. (and I'll add the link to the README file.)
 * The proposal should give me the feeling that you know what are the issues you are facing, but if something is unclear I'll ask. Some people do it in 5-10 lines, others write a whole paper. I prefer the shorter ones. At the end it should be the basis of the user documentation of your project.
+* The name of the repo should to reflect what the code will do not "final_project".
+* Add links to your web sites with your names.
+* Include at least one input data file
 
-* Project submission:
-* You will need to create a github repository where the proposal (that becomes description) will be the README.md file (so you can use markdown) and your project will be in the repo. You will open an issue on our shared project with a  link to that repo. (and I'll add the link to the README file.)
+
+### Project
+
+* The project itself will have to come with test that uses sample input data files
+* Open an issue on our shared project with a link to your repository when you'd like to submit the project.
+
 
 * Dead-line to get your proposal accepted: 2024.02.17 20:00
 * Dead-line to submit the project: 2024.03.20
