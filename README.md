@@ -23,7 +23,8 @@
 | [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           |  |
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa |
 | [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) |  |
-| [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       |  |
+| [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       |[War-implications
+](https://github.com/saritaharoni/War-implications/blob/main/README.md)  |
 | [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda |
 
