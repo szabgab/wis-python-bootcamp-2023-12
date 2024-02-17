@@ -6,7 +6,7 @@
 | Home page | Repo | Project |
 | --------- | ---- | ------- |
 | [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           | [Protein motif finder](https://github.com/Bodya-Huri/AlphaFoldMotif) |
-| [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         |  |
+| [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         | [qPCR-analyzer](https://github.com/DafnaBarkan/qPCR-analyzer/) |
 | [Doreen Padan](https://doreenpa.github.io/)            | [repo](https://github.com/doreenpa/doreenpa.github.io)               | with Golda |
 | [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |  |
 | [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             |  |
