@@ -13,7 +13,7 @@
 | [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 | [Generating matched patient pairs from an Excel database](https://github.com/goldahg/Generating-matched-patient-pairs-from-an-Excel-database/) |
 | [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 |  |
 | [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 | [Flow-cytometry-panel-planner](https://github.com/schoril/Flow-cytometry-panel-planner) |
-| [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 |  |
+| [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 | [Enzyme Kinetics - Activation Model](https://github.com/MCGhetu/Enzyme-Kinetics---Activation-Model) |
 | [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             |  |
 | [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             |  |
 | [Nachshon Egyes](https://nachshon-egyes.github.io/)    | [repo](https://github.com/nachshon-egyes/nachshon-egyes.github.io)   |  |
