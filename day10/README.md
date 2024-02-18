@@ -39,3 +39,10 @@ y > 10      => type 1
 5 >= y      => type 3
 ```
 
+## Videos
+
+* Day 10 part 1 https://youtu.be/DjZsRJl-mqI
+* Day 10 part 2 https://youtu.be/h__nm02RkV4
+* Day 10 part 3 https://youtu.be/GIpq9XtgtMw
+
+
