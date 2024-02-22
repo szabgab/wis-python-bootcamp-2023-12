@@ -23,7 +23,7 @@
 | [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) |
 | [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           | [Looper](https://github.com/NuriaVital/Looper) |
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa |
-| [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) |  |
+| [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [Coccolith crystals analysis](https://github.com/rebeccaleghziel/Coccolith-analysis) |
 | [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) |
 | [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda |
