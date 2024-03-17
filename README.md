@@ -3,30 +3,30 @@
 
 ## Students
 
-| Home page | Repo | Project |
+| Home page | Repo | Project | Status |
 | --------- | ---- | ------- |
-| [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           | [Protein motif finder](https://github.com/Bodya-Huri/AlphaFoldMotif) |
-| [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         | [qPCR-analyzer](https://github.com/DafnaBarkan/qPCR-analyzer/) |
-| [Doreen Padan](https://doreenpa.github.io/)            | [repo](https://github.com/doreenpa/doreenpa.github.io)               | with Golda |
-| [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |  |
-| [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             | [Rain Analyzer](https://github.com/gavrielbs/RainAnalyzer) |
-| [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 | [Generating matched patient pairs from an Excel database](https://github.com/goldahg/Generating-matched-patient-pairs-from-an-Excel-database/) |
-| [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 | [3D-fMRI-viewer](https://github.com/G-S-Baz/3D-fMRI-viewer) |
-| [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 | [Flow-cytometry-panel-planner](https://github.com/schoril/Flow-cytometry-panel-planner) |
-| [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 | [Enzyme Kinetics - Activation Model](https://github.com/MCGhetu/Enzyme-Kinetics---Activation-Model) |
-| [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             | [Pump Probe Analysis](https://github.com/MayaLevy2/Pump-Probe-Analysis) |
-| [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             | [Fluorescent microscopy puncta measurements](https://github.com/NaamaZung/fluorescent-microscopy-puncta-measurements) |
-| [Nachshon Egyes](https://nachshon-egyes.github.io/)    | [repo](https://github.com/nachshon-egyes/nachshon-egyes.github.io)   |  |
-| [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               | [PCR primer designer](https://github.com/nadavhen/PCR-primer-designer) |
-| [Nadav Mishol](https://nadavmishol.github.io/)         | [repo](https://github.com/NadavMishol/nadavmishol.github.io)         | [Movie Finder](https://github.com/NadavMishol/MovieFinder) |
-| [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   | [Glosensor Luciferase Assay](https://github.com/NoaNai/Glosensor_assay_analysis) |
-| [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) |
-| [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           | [Looper](https://github.com/NuriaVital/Looper) |
-| [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa |
-| [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [Coccolith crystals analysis](https://github.com/rebeccaleghziel/Coccolith-analysis) |
-| [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) |
-| [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana |
-| [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda |
+| [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           | [Protein motif finder](https://github.com/Bodya-Huri/AlphaFoldMotif) | |
+| [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         | [qPCR-analyzer](https://github.com/DafnaBarkan/qPCR-analyzer/) | |
+| [Doreen Padan](https://doreenpa.github.io/)            | [repo](https://github.com/doreenpa/doreenpa.github.io)               | with Golda | |
+| [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |  | |
+| [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             | [Rain Analyzer](https://github.com/gavrielbs/RainAnalyzer) | |
+| [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 | [Generating matched patient pairs from an Excel database](https://github.com/goldahg/Generating-matched-patient-pairs-from-an-Excel-database/) | |
+| [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 | [3D-fMRI-viewer](https://github.com/G-S-Baz/3D-fMRI-viewer) | |
+| [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 | [Flow-cytometry-panel-planner](https://github.com/schoril/Flow-cytometry-panel-planner) | |
+| [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 | [Enzyme Kinetics - Activation Model](https://github.com/MCGhetu/Enzyme-Kinetics---Activation-Model) | |
+| [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             | [Pump Probe Analysis](https://github.com/MayaLevy2/Pump-Probe-Analysis) | |
+| [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             | [Fluorescent microscopy puncta measurements](https://github.com/NaamaZung/fluorescent-microscopy-puncta-measurements) | |
+| [Nachshon Egyes](https://nachshon-egyes.github.io/)    | [repo](https://github.com/nachshon-egyes/nachshon-egyes.github.io)   |  | |
+| [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               | [PCR primer designer](https://github.com/nadavhen/PCR-primer-designer) | |
+| [Nadav Mishol](https://nadavmishol.github.io/)         | [repo](https://github.com/NadavMishol/nadavmishol.github.io)         | [Movie Finder](https://github.com/NadavMishol/MovieFinder) | done |
+| [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   | [Glosensor Luciferase Assay](https://github.com/NoaNai/Glosensor_assay_analysis) | |
+| [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) | |
+| [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           | [Looper](https://github.com/NuriaVital/Looper) | |
+| [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa | |
+| [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [Coccolith crystals analysis](https://github.com/rebeccaleghziel/Coccolith-analysis) | |
+| [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) | |
+| [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana | |
+| [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda | |
 
 
 ## Project
