@@ -55,6 +55,9 @@
 * All the code should be in functions, even if there is a function called `main`. Functions should be short (20-40 lines max).
 * On Windows filenames are case insensitive meaning `Examle.txt` and `example.txt`, on Linux, and I think also on macOS they are different. Make sure your code works on Linux as well.
 
+* Before you submit the project to me, find someone who also participates in the course (but not in your project) and ask that person to check out your project without giving them any extra explanation. If after reading the README they still have questions, then answer those questions by updating the README.
+* When you want to submit the project, please open a new issue in this repository with a link to the project. Then there is no need to send me emails.
+
 
 ### Project dead-line
 
