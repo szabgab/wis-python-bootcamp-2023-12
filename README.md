@@ -12,7 +12,7 @@
 | [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             | [Rain Analyzer](https://github.com/gavrielbs/RainAnalyzer) | |
 | [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 | [Generating matched patient pairs from an Excel database](https://github.com/goldahg/Generating-matched-patient-pairs-from-an-Excel-database/) | |
 | [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 | [3D-fMRI-viewer](https://github.com/G-S-Baz/3D-fMRI-viewer) | |
-| [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 | [Flow-cytometry-panel-planner](https://github.com/schoril/Flow-cytometry-panel-planner) | |
+| [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 | [Flow-cytometry-panel-planner](https://github.com/schoril/Flow-cytometry-panel-planner) | done |
 | [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 | [Enzyme Kinetics - Activation Model](https://github.com/MCGhetu/Enzyme-Kinetics---Activation-Model) | done |
 | [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             | [Pump Probe Analysis](https://github.com/MayaLevy2/Pump-Probe-Analysis) | |
 | [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             | [Fluorescent microscopy puncta measurements](https://github.com/NaamaZung/fluorescent-microscopy-puncta-measurements) | |
@@ -46,6 +46,13 @@
 
 * The project itself will have to come with test that uses sample input data files
 * Open an issue on our shared project with a link to your repository when you'd like to submit the project.
+
+
+* The Python dependencies of the project should be listed in a file called `requirements.txt`.
+* There should be instructions in the README on how to set up the environment, how to install the dependencies, how to run the tests, how to prepare the input (if needed), and how to run the program.
+* There should be a file called `.gitignore` listing all the folders and files you want to exclude from git to avoid adding them accidentally.
+* All the code should be in functions, even if there is a function called `main`. Functions should be short (20-40 lines max).
+* On Windows filenames are case insensitive meaning `Examle.txt` and `example.txt`, on Linux, and I think also on macOS they are different. Make sure your code works on Linux as well.
 
 
 * Dead-line to get your proposal accepted: 2024.02.17 20:00
