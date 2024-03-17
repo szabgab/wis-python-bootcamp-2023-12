@@ -47,6 +47,7 @@
 * The project itself will have to come with test that uses sample input data files
 * Open an issue on our shared project with a link to your repository when you'd like to submit the project.
 
+### Project notes
 
 * The Python dependencies of the project should be listed in a file called `requirements.txt`.
 * There should be instructions in the README on how to set up the environment, how to install the dependencies, how to run the tests, how to prepare the input (if needed), and how to run the program.
@@ -55,5 +56,9 @@
 * On Windows filenames are case insensitive meaning `Examle.txt` and `example.txt`, on Linux, and I think also on macOS they are different. Make sure your code works on Linux as well.
 
 
+### Project dead-line
+
 * Dead-line to get your proposal accepted: 2024.02.17 20:00
 * Dead-line to submit the project: 2024.03.20
+
+
