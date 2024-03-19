@@ -16,7 +16,7 @@
 | [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 | [Enzyme Kinetics - Activation Model](https://github.com/MCGhetu/Enzyme-Kinetics---Activation-Model) | done |
 | [Maya Levy](https://mayalevy2.github.io/)              | [repo](https://github.com/MayaLevy2/Mayalevy2.github.io)             | [Pump Probe Analysis](https://github.com/MayaLevy2/Pump-Probe-Analysis) | |
 | [Naama Zung](https://naamazung.github.io/)             | [repo](https://github.com/NaamaZung/naamazung.github.io)             | [Fluorescent microscopy puncta measurements](https://github.com/NaamaZung/fluorescent-microscopy-puncta-measurements) | |
-| [Nachshon Egyes](https://nachshon-egyes.github.io/)    | [repo](https://github.com/nachshon-egyes/nachshon-egyes.github.io)   |  | |
+| [Nachshon Egyes](https://nachshon-egyes.github.io/)    | [repo](https://github.com/nachshon-egyes/nachshon-egyes.github.io)   | [TFBS finder](https://github.com/nachshon-egyes/TFBS_finder) | |
 | [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               | [PCR primer designer](https://github.com/nadavhen/PCR-primer-designer) | |
 | [Nadav Mishol](https://nadavmishol.github.io/)         | [repo](https://github.com/NadavMishol/nadavmishol.github.io)         | [Movie Finder](https://github.com/NadavMishol/MovieFinder) | done |
 | [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   | [Glosensor Luciferase Assay](https://github.com/NoaNai/Glosensor_assay_analysis) | |
