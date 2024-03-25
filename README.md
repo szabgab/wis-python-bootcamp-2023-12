@@ -5,12 +5,12 @@
 
 | Home page | Repo | Project | Status |
 | --------- | ---- | ------- | ------ |
-| [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           | [Protein motif finder](https://github.com/Bodya-Huri/AlphaFoldMotif) | |
-| [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         | [qPCR-analyzer](https://github.com/DafnaBarkan/qPCR-analyzer/) | |
-| [Doreen Padan](https://doreenpa.github.io/)            | [repo](https://github.com/doreenpa/doreenpa.github.io)               | with Golda | |
+| [Bohdana Hurieva](https://bodya-huri.github.io/)       | [repo](https://github.com/Bodya-Huri/Bodya-Huri.github.io)           | [Protein motif finder](https://github.com/Bodya-Huri/AlphaFoldMotif) | done |
+| [Dafna Barkan](https://dafnabarkan.github.io/)         | [repo](https://github.com/DafnaBarkan/DafnaBarkan.github.io)         | [qPCR-analyzer](https://github.com/DafnaBarkan/qPCR-analyzer/) | done |
+| [Doreen Padan](https://doreenpa.github.io/)            | [repo](https://github.com/doreenpa/doreenpa.github.io)               | with Golda | done |
 | [Fayiri Kante](https://fayirikante.github.io/)         | [repo](https://github.com/fayirikante/fayirikante.github.io)         |  | |
 | [Gabriel Bar-Sella,](https://gavrielbs.github.io/)     | [repo](https://github.com/gavrielbs/gavrielbs.github.io)             | [Rain Analyzer](https://github.com/gavrielbs/RainAnalyzer) | done |
-| [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 | [Generating matched patient pairs from an Excel database](https://github.com/goldahg/Generating-matched-patient-pairs-from-an-Excel-database/) | |
+| [Golda Gross](https://goldahg.github.io/)              | [repo](https://github.com/goldahg/goldahg.github.io)                 | [Generating matched patient pairs from an Excel database](https://github.com/goldahg/Generating-matched-patient-pairs-from-an-Excel-database/) | done |
 | [Guy Baz](https://g-s-baz.github.io/)                  | [repo](https://github.com/g-s-baz/g-s-baz.github.io)                 | [3D-fMRI-viewer](https://github.com/G-S-Baz/3D-fMRI-viewer) | |
 | [Lior Schori](https://schoril.github.io/)              | [repo](https://github.com/schoril/schoril.github.io)                 | [Flow-cytometry-panel-planner](https://github.com/schoril/Flow-cytometry-panel-planner) | done |
 | [Maria-Cristina Ghetu](https://mcghetu.github.io/)     | [repo](https://github.com/MCGhetu/mcghetu.github.io)                 | [Enzyme Kinetics - Activation Model](https://github.com/MCGhetu/Enzyme-Kinetics---Activation-Model) | done |
@@ -25,8 +25,8 @@
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa | |
 | [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [Coccolith crystals analysis](https://github.com/rebeccaleghziel/Coccolith-analysis) | |
 | [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) | |
-| [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana | |
-| [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda | |
+| [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana | done |
+| [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda | done |
 
 
 ## Project
