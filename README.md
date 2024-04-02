@@ -20,11 +20,11 @@
 | [Nadav Hen](https://nadavhen.github.io/)               | [repo](https://github.com/nadavhen/nadavhen.github.io)               | [PCR primer designer](https://github.com/nadavhen/PCR-primer-designer) | done |
 | [Nadav Mishol](https://nadavmishol.github.io/)         | [repo](https://github.com/NadavMishol/nadavmishol.github.io)         | [Movie Finder](https://github.com/NadavMishol/MovieFinder) | done |
 | [Noa Nairner](https://noanai.github.io/)               | [repo](https://github.com/NoaNai/NoaNai.github.io)                   | [Glosensor Luciferase Assay](https://github.com/NoaNai/Glosensor_assay_analysis) | done |
-| [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) | (private repo) |
+| [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) (private) |  |
 | [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           | [Looper](https://github.com/NuriaVital/Looper) | done |
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa | done |
 | [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [Coccolith crystals analysis](https://github.com/rebeccaleghziel/Coccolith-analysis) | |
-| [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) | done (private repo) |
+| [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) (private) | done  |
 | [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana | done |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda | done |
 
