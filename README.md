@@ -23,7 +23,7 @@
 | [Noya Ruth Itzhak](https://noyarui.github.io/)         | [repo](https://github.com/noyarui/noyarui.github.io)                 | [Movie analysis project](https://github.com/noyarui/Movie-analysis-project) (private) | done |
 | [Nuria Vital](https://nuriavital.github.io/)           | [repo](https://github.com/NuriaVital/NuriaVital.github.io)           | [Looper](https://github.com/NuriaVital/Looper) | done |
 | [Ori Berman](https://ori1992.github.io/)               | [repo](https://github.com/ori1992/ori1992.github.io)                 | with Noa | done |
-| [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [4DSTEM-Orientation-Map](https://github.com/rebeccaleghziel/4DSTEM-Orientation-Map) (private) | |
+| [Rebecca Leghziel](https://rebeccaleghziel.github.io/) | [repo](https://github.com/rebeccaleghziel/rebeccaleghziel.github.io) | [4DSTEM-Orientation-Map](https://github.com/rebeccaleghziel/4DSTEM-Orientation-Map) (private) | done |
 | [Sarit Aharoni](https://saritaharoni.github.io/)       | [repo](https://github.com/saritaharoni/saritaharoni.github.io)       | [War-implications](https://github.com/saritaharoni/War-implications) (private) | done  |
 | [Simona Manasra](https://mlkndt.github.io/)            | [repo](https://github.com/mlkndt/mlkndt.github.io)                   | with Bohdana | done |
 | [Stav Hirshenzon](https://stavhir.github.io/)          | [repo](https://github.com/stavhir/stavhir.github.io)                 | with Golda | done |
