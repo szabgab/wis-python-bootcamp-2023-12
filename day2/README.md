@@ -33,7 +33,7 @@ second hour
 00:00 - python 2 vs.3
 06:45 - stack overflow
 12:50 - circle.py
-19:40 - extentions \ libraries.(math)
+19:40 - extensions \ libraries.(math)
 30:20 - third libraries (PyPI)
 42:00 - conditions
 

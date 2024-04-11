@@ -75,7 +75,7 @@ Second lecture
 Third lecture
 
 00:00 - A module file
-06:50 - Packeges are modules
+06:50 - Packages are modules
 10:20 - Testing
 16:45 - Test a function with pytest
 25:05 - A test failure

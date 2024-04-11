@@ -10,7 +10,7 @@
 
 ## Assignment - Day 3
 
-* Given a text file that contains several dirty sequences create several repots.
+* Given a text file that contains several dirty sequences create several reports.
 * A "dirty" nucleotide is one that besides ACTG also has a few X-es.
 * The file has many rows.
 * Each row can have one or more sequences. The sequences are separated by one or more spaces.

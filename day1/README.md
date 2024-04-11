@@ -10,7 +10,7 @@
 * We installed the Python plugin that provides IntelliSense.
 * Created a folder for our code.
 * Created our first Python program in VS Code. (Hello World)
-* We ran it from the meny and directly in the terminal of VS Code.
+* We ran it from the many and directly in the terminal of VS Code.
 * We saw cd (change directory) and dir (list directory).
 * We learned about TAB for autocomplete.
 * Installed Jupyter by typing in pip install jupyter   ( see https://jupyter.org/ ).
