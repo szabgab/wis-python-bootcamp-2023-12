@@ -34,7 +34,7 @@ second hour
 06:45 - stack overflow
 12:50 - circle.py
 19:40 - extensions \ libraries.(math)
-30:20 - third libraries (PyPI)
+30:20 - third party libraries (PyPI)
 42:00 - conditions
 
 third hour
